@@ -1,6 +1,6 @@
 # Lapsu
 
-Lapsu is a small project using as exercice that compute time ago from input date. The source code was coded about Node.js.
+Lapsu is a small project built as exercice that compute time ago from input date. The source code was coded about Node.js.
 
 ## Usage
 
